@@ -10,7 +10,7 @@
   <tr>
     <td valign="top" width="65%">
       <div>🎮 Unity Developer | C# Programmer | Gameplay & Tools Engineer</div>
-      <div>🧩 Specializing in 2D/3D gameplay, multiplayer (Photon), UI, and prototyping</div>
+      <div>🧩 Specializing in 2D/3D gameplay, UI, and prototyping</div>
       <div>📦 Experienced with Zenject, UniTask, Addressables, DOTween</div>
       <div>🧠 Game design-aware programmer with a deep love for systems and clean architecture</div>
       <div>🚀 Currently working on indie games for PC and mobile platforms</div>
@@ -19,21 +19,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## 🧰 Tech Stack & Tools
-
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![Zenject](https://img.shields.io/badge/Zenject-5C2D91?style=flat)
-![Photon](https://img.shields.io/badge/Photon%20Fusion-blue?style=flat)
-![DoTween](https://img.shields.io/badge/DoTween-purple?style=flat)
----
-
-## 📄 Resume (PDF)
-
-[![Download Resume](https://img.shields.io/badge/View%20My%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/DjKarp/DjKarp/blob/main/main/CV/KarpushaNikolaySergeevich.pdf)
 
 ---
 
@@ -79,6 +64,12 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 📄 Resume (PDF)
+
+[![Download Resume](https://img.shields.io/badge/View%20My%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/DjKarp/DjKarp/blob/main/main/CV/KarpushaNikolaySergeevich.pdf)
 
 ---
 
