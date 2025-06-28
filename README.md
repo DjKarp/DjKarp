@@ -72,9 +72,3 @@
 [![Download Resume](https://img.shields.io/badge/View%20My%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/DjKarp/DjKarp/blob/main/main/CV/KarpushaNikolaySergeevich.pdf)
 
 ---
-
-## 💬 About Me
-
-🧩 Experienced with gameplay mechanics, state machines, UI, async logic  
-🌍 Projects for Steam, RuStore (Android), Web Gl
-Email: RedLegGames@gmail.com
